@@ -3,6 +3,7 @@ package com.wfj.tank1;
 public class Main {
 
 	public static void main(String[] args) {
+		//主类
 		TankFrame tf = new TankFrame();
 	
 		//初始化敌方坦克
